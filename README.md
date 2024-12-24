@@ -95,7 +95,7 @@ cargo nexus verify
 
 #
 
-> Bu dizinde ki `nexus-proof`dosyamızı kaydedip saklayalım
+> Bu dizinde ki `nexus-proof`dosyamızı kaydedip saklayalım.
 
 <img width="417" alt="Ekran Resmi 2024-06-14 11 02 40" src="https://github.com/ruesandora/Nexus/assets/101149671/b6468869-3274-4b05-857d-a82263729585">
 
